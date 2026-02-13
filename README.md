@@ -33,7 +33,7 @@ Incentivize Month-to-month customers to switch to yearly plans.
 ![Payment Method vs Churn](https://github.com/anuskhattak/Customer-Churn-Prediction/blob/main/download%20(3).png?raw=true)
 
 Monitor customers using Electronic Checks for early churn signs.
-https://github.com/anuskhattak/Customer-Churn-Prediction/blob/main/download%20(2).png?raw=true
+![Electronic Check Churn Analysis](https://github.com/anuskhattak/Customer-Churn-Prediction/blob/main/download%20(2).png?raw=true)
 
 Offer loyalty rewards to high-paying customers to reduce risk.
 
