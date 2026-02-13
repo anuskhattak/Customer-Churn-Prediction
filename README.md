@@ -26,6 +26,7 @@ Handling Imbalance (SMOTE): Since the number of churners was low (Imbalanced Dat
 Using **Random Forest + SMOTE**, we achieved:
 * **Recall (Class 1):** ~64% (Successfully identifying most churners)
 * **Accuracy:** 76%
+* https://github.com/anuskhattak/Customer-Churn-Prediction/blob/1ae80a24ef608639982ed1516f677242e3cafd6e/download%20(4).png
 
 💡 Business Recommendations
 Incentivize Month-to-month customers to switch to yearly plans.
